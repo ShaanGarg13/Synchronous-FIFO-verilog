@@ -1,0 +1,48 @@
++---------------------------------------------------------------------------------+
+; Analysis & Synthesis Summary                                                    ;
++------------------------------------+--------------------------------------------+
+; Analysis & Synthesis Status        ; Successful - Fri May 29 16:16:37 2026      ;
+; Quartus II 64-Bit Version          ; 13.1.0 Build 162 10/23/2013 SJ Web Edition ;
+; Revision Name                      ; SFIFO                                      ;
+; Top-level Entity Name              ; SFIFO                                      ;
+; Family                             ; Cyclone IV E                               ;
+; Total logic elements               ; 41                                         ;
+;     Total combinational functions  ; 25                                         ;
+;     Dedicated logic registers      ; 29                                         ;
+; Total registers                    ; 29                                         ;
+; Total pins                         ; 14                                         ;
+; Total virtual pins                 ; 0                                          ;
+; Total memory bits                  ; 0                                          ;
+; Embedded Multiplier 9-bit elements ; 0                                          ;
+; Total PLLs                         ; 0                                          ;
++------------------------------------+--------------------------------------------+
+
++-----------------------------------------------------------+
+; Analysis & Synthesis Resource Usage Summary               ;
++---------------------------------------------+-------------+
+; Resource                                    ; Usage       ;
++---------------------------------------------+-------------+
+; Estimated Total logic elements              ; 41          ;
+;                                             ;             ;
+; Total combinational functions               ; 25          ;
+; Logic element usage by number of LUT inputs ;             ;
+;     -- 4 input functions                    ; 17          ;
+;     -- 3 input functions                    ; 3           ;
+;     -- <=2 input functions                  ; 5           ;
+;                                             ;             ;
+; Logic elements by mode                      ;             ;
+;     -- normal mode                          ; 25          ;
+;     -- arithmetic mode                      ; 0           ;
+;                                             ;             ;
+; Total registers                             ; 29          ;
+;     -- Dedicated logic registers            ; 29          ;
+;     -- I/O registers                        ; 0           ;
+;                                             ;             ;
+; I/O pins                                    ; 14          ;
+; Embedded Multiplier 9-bit elements          ; 0           ;
+; Maximum fan-out node                        ; clock~input ;
+; Maximum fan-out                             ; 29          ;
+; Total fan-out                               ; 200         ;
+; Average fan-out                             ; 2.44        ;
++---------------------------------------------+-------------+
+
